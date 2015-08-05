@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: Breaking - Mt. Gox is dead, long live Mt. Gox
+author:
+  display_name: mvukas
+  login: mvukas
+  email: mattvukas@gmail.com
+  url: ''
+author_login: mvukas
+author_email: mattvukas@gmail.com
+wordpress_id: 424
+wordpress_url: http://mattvukas.com/?p=424
+date: '2014-02-24 21:32:02 -0700'
+date_gmt: '2014-02-25 02:32:02 -0700'
+---
+<p>I've been a proponent of Bitcoin for a while now - I think that the currency is still in its infancy and certainly has its risks, but long term will be hailed as a very important innovation. Unfortunately, it looks like that road is going to be long and filled with plenty of big potholes, as the breaking story of <a href="http://thegenesisblock.com/mt-gox-impact-diminishes-market-price-dissociates/">Mt. Gox's downfall</a>, as well as CEO <a href="http://money.cnn.com/2014/02/24/technology/security/mtgox-bitcoin/">Mark Karpeles' own demise</a>, shows. But tonight, we may have received the final chapter of Mt. Gox's last saga, courtesy of a Bitcoin blogger known as <a href="http://www.coindesk.com/author/ryan-galt/">"The Two-Bit Idiot"</a>. He posted a chillingly titled entry earlier today titled <a href="http://two-bit-idiot.tumblr.com/post/77745633839/bitcoins-apocalyptic-moment-mt-gox-may-have-lost">"Bitcoin’s Apocalyptic Moment: Mt. Gox may have lost 750,000 bitcoins"</a>, referencing a leaked document obtained from "an otherwise reliable source." 750,000 BTC equals about <strong>$375 <em>million</em></strong> at today's exchange rate.</p>
+<p><a id="more"></a><a id="more-424"></a></p>
+<p>As of a few minutes ago, he has posted <a href="http://two-bit-idiot.tumblr.com/post/77760399932/update-on-mt-gox-this-document-appears-to-be">another update</a>, linking to the document. Here is a key passage from <strong>the document, which <a href="http://www.scribd.com/doc/209050732/MtGox-Situation-Crisis-Strategy-Draft">may be found here</a></strong>:</p>
+<blockquote><p>Publicly, MtGox declared that “transaction malleability” caused the system to be subject to theft, and that something needed to be done by the core devs to fix it. Gox’s own workaround solution was criticized, and eventually a fix was provided by Blockchain.info. The truth, it turns out, is that the damage had already been done. <strong>At this point 744,408 BTC are missing due to malleability-related theft which went unnoticed for several years. The cold storage has been wiped out due to a leak in the hot wallet.</strong></blockquote><br />
+It should be noted that the document's source has not been verified. It will surely be making the rounds through social media and the blogosphere over the next few hours. The document is in the form of a Powerpoint presentation, and contains the title "Crisis Strategy Draft". Here is the first slide:</p>
+<p><a href="http://mattvukas.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-24-at-9.23.02-PM.png"><img class="aligncenter size-full wp-image-425" alt="Screen Shot 2014-02-24 at 9.23.02 PM" src="http://mattvukas.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-24-at-9.23.02-PM.png" width="800" height="463" /></a></p>
+<p> </p>
+<p>The presentation then goes on to outline a plan for mitigating the damage to the company Mt. Gox, as well as the public image of Bitcoin in general. One slide even contains specific dates for public announcements to come:</p>
+<p><a href="http://mattvukas.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-24-at-9.22.53-PM.png"><img class="aligncenter size-full wp-image-426" alt="Screen Shot 2014-02-24 at 9.22.53 PM" src="http://mattvukas.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-24-at-9.22.53-PM.png" width="797" height="628" /></a></p>
+<p> </p>
+<p>Again, <strong>the validity of this document has not been confirmed</strong>, but it would be a very convincing fake if it did turn out to be a hoax. And it certainly wouldn't be surprising, given the public demise of the once esteemed exchange, the <a href="http://www.bloomberg.com/video/bitcoin-reels-as-mt-gox-exchange-halts-withdrawals-gW6pNbm4Q9eC3B8BMQFK5A.html">halting of withdrawals</a>, and the (currently) over $400 spread between Mt. Gox's exchange price and others. This also comes on the heels of Mt. Gox suspiciously blaming their woes on a Bitcoin vulnerability <a href="http://www.reddit.com/r/Bitcoin/comments/1xieb9/keep_calm_transaction_malleability_is_not_double/">that turns out not to be a vulnerability at all</a>. But given the hard dates presented in the document, we should know soon enough.</p>
+<p>Either way, the release of this material should be taken seriously by Bitcoin enthusiasts and investors. Mt. Gox blazed a trail as the first major exchange of the currency, persevering through ups and downs, in addition to countless DDOS attacks and panics. It was used as the bellwether for the price of Bitcoin, and was used by countless ticker and chart websites online. Yet it seems that sheer negligence may be its downfall in the end, if this release about <strong>cold storage Bitcoins being leaked</strong> ends up to be true.</p>
+<p>Bitcoin investors may want to buckle down - while the currency will surely survive, the price charts may be very rough for the weeks to come.</p>
+<p><strong>EDIT (2-24-14 10pm): </strong>It looks like trading on Mt. Gox has been halted, with <a href="http://bitcoinity.org/markets/mtgox/USD">Bitcoinity</a> reporting that the last trade was executed about an hour ago:</p>
+<p><a href="http://mattvukas.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-24-at-9.58.00-PM.png"><img class="aligncenter size-full wp-image-432" alt="Screen Shot 2014-02-24 at 9.58.00 PM" src="http://mattvukas.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-24-at-9.58.00-PM.png" width="831" height="335" /></a></p>
+<p> </p>
+<p><strong>EDIT (2-24-14 10:18pm): </strong>The other major Bitcoin exchanges <a href="http://blog.coinbase.com/post/77766809700/joint-statement-regarding-mtgox">have released a joint statement</a> via the Coinbase website, saying that "This tragic violation of the trust of users of Mt.Gox was the result of one company’s actions and does not reflect the resilience or value of bitcoin and the digital currency industry."</p>
+<p><strong>EDIT (2-25-14 12:59am):</strong> At this time, the <a href="https://www.mtgox.com/">Mt. Gox website</a> appears to be completely offline.</p>
+<p><strong>EDIT (2-25-14 11:33am): </strong>The <a href="https://www.mtgox.com/">Mt. Gox website</a> now redirects to a single, cryptic message, shown below. This is the only page accessible on the website:</p>
+<p><a href="http://mattvukas.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-25-at-11.30.56-AM.png"><img class="aligncenter size-full wp-image-438" alt="Screen Shot 2014-02-25 at 11.30.56 AM" src="http://mattvukas.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-25-at-11.30.56-AM.png" width="507" height="230" /></a></p>
+<p> </p>
+<p><strong>UPDATE (2-26-14 1:13am): </strong>The Wall Street Journal is reporting that federal prosecutors in New York <a href="http://www.reuters.com/article/2014/02/26/mtgox-subpoena-idUSL3N0LV0UZ20140226">have issued a subpoena</a> for Mt. Gox.</p>

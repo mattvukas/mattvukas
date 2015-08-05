@@ -5,13 +5,23 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
+  <div class="date">
+    Posted on {{ page.date | date: "%-m/%-d/%Y" }}
+  </div>
+
   <div class="entry">
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
   {% include disqus.html %}
+
+  <p class="meta">
+    {% if page.previous.url %}
+      Next: <a href="{{page.previous.url}}" title="{{page.previous.title}}">{{page.previous.title}}</a>
+    {% endif %}
+    <br />
+    {% if page.next.url %}
+      Prev: <a href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}}</a>
+    {% endif %}
+  </p>
 </article>

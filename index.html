@@ -1,18 +1,148 @@
 ---
 layout: default
+redirect_from:
+  - /category/news/
+  - /category/tips/
+  - /category/tutorials/
+  - /category/updates/
+  - /tag/1984/
+  - /tag/aclu/
+  - /tag/algorithms/
+  - /tag/android/
+  - /tag/att/
+  - /tag/bitcoin/
+  - /tag/botnet/
+  - /tag/broadband/
+  - /tag/bug-bounty/
+  - /tag/canonical/
+  - /tag/cdn/
+  - /tag/cia/
+  - /tag/cispa/
+  - /tag/civil-rights/
+  - /tag/cnbc/
+  - /tag/comcast/
+  - /tag/constitution/
+  - /tag/css/
+  - /tag/currency/
+  - /tag/data-center/
+  - /tag/debian/
+  - /tag/don-mattrick/
+  - /tag/drm/
+  - /tag/e3/
+  - /tag/eclipse/
+  - /tag/economics/
+  - /tag/edward-snowden/
+  - /tag/encryption/
+  - /tag/facebook/
+  - /tag/fbi/
+  - /tag/fiber-optics/
+  - /tag/filezilla/
+  - /tag/fisa/
+  - /tag/foss/
+  - /tag/fourth-amendment/
+  - /tag/fraud/
+  - /tag/free-speech/
+  - /tag/ftp/
+  - /tag/google/
+  - /tag/google-glass/
+  - /tag/hoosiers/
+  - /tag/html/
+  - /tag/i-light/
+  - /tag/ide/
+  - /tag/internet/
+  - /tag/internet2/
+  - /tag/ios/
+  - /tag/isp/
+  - /tag/iu/
+  - /tag/java/
+  - /tag/javadoc/
+  - /tag/keyboard-shortcuts/
+  - /tag/kinect/
+  - /tag/level-3/
+  - /tag/linux/
+  - /tag/mac/
+  - /tag/mac-os-x/
+  - /tag/march-madness/
+  - /tag/mark-karpeles/
+  - /tag/medium/
+  - /tag/microsoft/
+  - /tag/mint-linux/
+  - /tag/mobile-industry/
+  - /tag/mt-gox/
+  - /tag/net-neutrality/
+  - /tag/netflix/
+  - /tag/nintendo/
+  - /tag/no-ip/
+  - /tag/nsa/
+  - /tag/obama/
+  - /tag/p2p/
+  - /tag/patriot-act/
+  - /tag/peering/
+  - /tag/president-obama/
+  - /tag/prism/
+  - /tag/protests/
+  - /tag/ps3/
+  - /tag/ps4/
+  - /tag/reddit/
+  - /tag/refactor/
+  - /tag/remote-server/
+  - /tag/revolution/
+  - /tag/smartphones/
+  - /tag/social-media/
+  - /tag/sony/
+  - /tag/sopa/
+  - /tag/steve-ballmer/
+  - /tag/steven-sinofsky/
+  - /tag/sublime-text/
+  - /tag/surface-rt/
+  - /tag/system-out-println/
+  - /tag/time-warner/
+  - /tag/tor/
+  - /tag/tumblr/
+  - /tag/turkey/
+  - /tag/ubuntu/
+  - /tag/uits/
+  - /tag/uprising/
+  - /tag/verizon/
+  - /tag/virtualbox/
+  - /tag/virtualization/
+  - /tag/vpn/
+  - /tag/warrantless-wiretapping/
+  - /tag/web-development/
+  - /tag/wii/
+  - /tag/wii-u/
+  - /tag/wiiu/
+  - /tag/windows/
+  - /tag/windows-7/
+  - /tag/windows-8/
+  - /tag/windows-8-1/
+  - /tag/windows-9/
+  - /tag/windows-phone-8/
+  - /tag/windows-vista/
+  - /tag/world-news/
+  - /tag/worst-isp-ever/
+  - /tag/xbone/
+  - /tag/xbox-360/
+  - /tag/xbox-one/
+  - /tag/xkeyscore/
+  - /author/mvukas/
 ---
-
+<!-- Everything that 404's should basically redirect to this page -->
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+    {% for post in site.posts %}
+      {% if forloop.index == 1 %}
+        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <div class="date">
+          Posted on {{ post.date | date: "%-m/%-d/%Y" }}
+        </div>
+        <p>{{ post.excerpt }}</p>
+        <p><a href="{{ post.url }}"><strong>Read more...</strong></a></p>
+        <hr class="style-six">
+        <h6>Archives</h6> <!-- Should this be something higher up? H4? -->
+        <ul>
+      {% else %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%-m/%-d/%Y" }})</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </div>
