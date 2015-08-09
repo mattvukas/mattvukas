@@ -3,7 +3,7 @@ layout: post
 title: Work in progress
 ---
 
-Super interesting opening line here.
+Super interesting opening line here. Example [link](http://daringfireball.net/projects/markdown/syntax#link) here.
 
 Recap on the past year here.
 
