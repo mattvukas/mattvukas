@@ -6,22 +6,31 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   <div class="date">
-    Posted on {{ page.date | date: "%-m/%-d/%Y" }}
+    <time datetime="{{ page.date | date: "%Y-%m-%d" }}">Posted on {{ page.date | date: "%-m/%-d/%Y" }}</time>
   </div>
 
   <div class="entry">
     {{ content }}
   </div>
 
+  <hr class="style-six">
+
   {% include disqus.html %}
 
-  <p class="meta">
-    {% if page.previous.url %}
-      Next: <a href="{{page.previous.url}}" title="{{page.previous.title}}">{{page.previous.title}}</a>
-    {% endif %}
-    <br />
-    {% if page.next.url %}
-      Prev: <a href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}}</a>
-    {% endif %}
-  </p>
+  <table>
+    <tr>
+      <td>
+        {% if page.next.url %}
+          Prev: 
+          <br><a href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}}</a>
+        {% endif %}
+      </td>
+      <td>
+        {% if page.previous.url %}
+          Next:
+          <br><a href="{{page.previous.url}}" title="{{page.previous.title}}">{{page.previous.title}}</a>
+        {% endif %}
+      </td>
+    </tr>
+  </table>
 </article>

@@ -131,12 +131,14 @@ redirect_from:
 <div class="posts">
     {% for post in site.posts %}
       {% if forloop.index == 1 %}
-        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-        <div class="date">
-          Posted on {{ post.date | date: "%-m/%-d/%Y" }}
-        </div>
-        <p>{{ post.excerpt }}</p>
-        <p><a href="{{ post.url }}"><strong>Read more...</strong></a></p>
+        <article>
+          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+          <div class="date">
+            <time datetime="{{ post.date | date: "%Y-%m-%d" }}">Posted on {{ post.date | date: "%-m/%-d/%Y" }}</time>
+          </div>
+          <p>{{ post.excerpt }}</p>
+          <p><a href="{{ post.url }}"><strong>Read more...</strong></a></p>
+        </article>
         <hr class="style-six">
         <h6>Archives</h6> <!-- Should this be something higher up? H4? -->
         <ul>
