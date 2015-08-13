@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 206
 wordpress_url: http://mattvukas.com/?p=206
-date: '2013-01-02 21:41:30 -0700'
-date_gmt: '2013-01-03 02:41:30 -0700'
 ---
 <p>The mobile industry is the place to be right now, with heavy growth in almost every part of the world. Sales growth of PCs has slowed to a crawl recently, and <a href="http://gigaom.com/mobile/of-course-pc-sales-are-in-decline-mobile-is-where-its-at/">pundits are already heralding the end of the PC age, and the dominance of mobile</a>. The mobile market is mostly dominated by the Android and iOS operating systems, supported by Google and Apple, respectively. Microsoft has made inroads with its heavy financial backing of the Windows Phone OS, as well as its partnership with Nokia, yet still has a relatively small market share overall. Just when the mobile playing field seemed set, another big competitor (or two) will certainly be on the way soon.</p>
 <p><a id="more"></a><a id="more-206"></a></p>

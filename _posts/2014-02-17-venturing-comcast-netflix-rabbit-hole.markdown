@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 399
 wordpress_url: http://mattvukas.com/?p=399
-date: '2014-02-17 11:18:51 -0700'
-date_gmt: '2014-02-17 16:18:51 -0700'
 ---
 <p>After a few days of contemplation, I've come up with a few topics to cover that will hopefully make a worthy follow up to my <a href="http://mattvukas.com/2014/02/10/comcast-definitely-throttling-netflix-infuriating/">last article</a>. The response that I've gotten has been completely unprecedented. The article got over 30,000 hits, over 4,000 shares on Facebook, and I've received countless e-mails and messages over social media offering suggestions, support, and critique. I say unprecedented because this blog usually gets a trickle of a few hits a day. I was invited to speak on a <a href="http://www.youtube.com/watch?v=5Z-DD_kM1fM">radio station in San Francisco</a> as well as a <a href="http://www.youtube.com/watch?v=ll9zEkCerl4">TV station in Seattle</a>. It seems that people nationwide are quite serious about their Netflix.</p>
 <p><a id="more"></a><a id="more-399"></a></p>

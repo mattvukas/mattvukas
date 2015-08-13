@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 258
 wordpress_url: http://mattvukas.com/?p=258
-date: '2013-06-01 14:33:53 -0600'
-date_gmt: '2013-06-01 18:33:53 -0600'
 ---
 <p>When I woke up this morning, I followed a pretty typical progression of activities for a Saturday morning. I popped a cup in my Keurig machine, got a yogurt from the fridge, and turned on CNN. They were running a story about tornadoes in the Great Plains. It was depressing, and happens fairly often this time of the year, so I turned it off and went downstairs to do laundry. When I came back, I checked Reddit, and noticed that one of the top posts was a <a href="http://vimeo.com/67432788">Vimeo video about massive protests in Turkey</a>:</p>
 <p><a id="more"></a><a id="more-258"></a></p>

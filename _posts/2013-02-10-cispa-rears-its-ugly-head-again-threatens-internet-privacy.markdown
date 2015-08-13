@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 226
 wordpress_url: http://mattvukas.com/?p=226
-date: '2013-02-10 23:17:15 -0700'
-date_gmt: '2013-02-11 04:17:15 -0700'
 ---
 <p>It's been almost a year since the <a href="http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act">Stop Online Privacy Act (SOPA)</a> brouhaha blew over, and it has been all quiet on the Internet privacy front for some time now. But privacy advocates now have a new threat to face - the reintroduction of the <a href="http://en.wikipedia.org/wiki/Cyber_Intelligence_Sharing_and_Protection_Act">Cyber Intelligence Sharing and Protection Act (CISPA)</a> in the House of Representatives.</p>
 <p><a id="more"></a><a id="more-226"></a></p>

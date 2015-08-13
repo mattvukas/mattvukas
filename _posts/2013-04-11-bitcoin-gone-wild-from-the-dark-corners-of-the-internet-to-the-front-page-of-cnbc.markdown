@@ -13,8 +13,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 245
 wordpress_url: http://mattvukas.com/?p=245
-date: '2013-04-11 18:40:26 -0600'
-date_gmt: '2013-04-11 22:40:26 -0600'
 ---
 <p>If you follow technology news, or even financial news, you've likely heard of <a href="http://en.wikipedia.org/wiki/Bitcoin">Bitcoin</a>. Bitcoin is a cryptocurrency and the biggest "alternative currency" in the world. Bitcoin is a fascinating concept, and while I won't explain it here, there are countless websites and YouTube videos explaining in detail how it works. Let's just say that it sounds like science fiction the first time you read about the mechanism behind it.</p>
 <p>Bitcoin was originally valued highly for it's ability to be traded anonymously, without any middleman, bank, or central exchange. It also appealed to libertarians, anarcho-capitalists, and anyone who was starting to feel a little uneasy about fiat currencies and the Federal Reserve. It has also been used extensively at online casinos and other less-than-legal businesses online from the start. But a lot of legitimate businesses are starting to take notice, and a few PayPal-like Silicon Valley startups have popped up to help manage the new cryptocurrency. And all this new interest and publicity has driven Bitcoin's value upwards.</p>

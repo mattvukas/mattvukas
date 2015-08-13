@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 363
 wordpress_url: http://mattvukas.com/?p=363
-date: '2014-01-18 14:21:05 -0700'
-date_gmt: '2014-01-18 19:21:05 -0700'
 ---
 <p>FileZilla is a great free and open source FTP client. As far as standalone FTP clients go, I'd be willing to bet that it's the most widely used client of it's type. Without the data to back that up, I'd only assume it based on how many times I've seen it used by universities, companies, and freelance developers.</p>
 <p>While being relatively straightforward, FileZilla is pretty feature rich, even including the ability to edit files remotely using your favorite local, GUI text editor. That's what I'll show in this article.</p>

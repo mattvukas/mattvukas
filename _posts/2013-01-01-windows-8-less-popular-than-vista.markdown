@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 196
 wordpress_url: http://mattvukas.com/?p=196
-date: '2013-01-01 19:06:48 -0700'
-date_gmt: '2013-01-02 00:06:48 -0700'
 ---
 <p>2012 has been a rough year for Microsoft. Windows Phone continues to have trouble attracting consumers, featuring a crisp user interface, yet commanding a relatively small market share worldwide. Microsoft also made its first real foray into the tablet market in 2012, debuting a rare piece of Microsoft hardware; the Surface RT. Reactions were positive after its announcement, but <a href="http://www.tomshardware.com/news/Parks-Associates-Kindle-Fire-Ipad-Nexus-10-Surface-RT,19816.html">the steep price and fierce competition provided by new Apple and Android offerings lowered demand of the tablet</a>. It's too late to judge holiday sales, but limited in-store availability of the Surface, combined with the aforementioned factors, could lead to a disappointing New Year's celebration for Microsoft brass.</p>
 <p><a id="more"></a><a id="more-196"></a></p>

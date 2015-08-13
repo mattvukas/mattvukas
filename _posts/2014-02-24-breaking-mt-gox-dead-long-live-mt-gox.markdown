@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 424
 wordpress_url: http://mattvukas.com/?p=424
-date: '2014-02-24 21:32:02 -0700'
-date_gmt: '2014-02-25 02:32:02 -0700'
 ---
 <p>I've been a proponent of Bitcoin for a while now - I think that the currency is still in its infancy and certainly has its risks, but long term will be hailed as a very important innovation. Unfortunately, it looks like that road is going to be long and filled with plenty of big potholes, as the breaking story of <a href="http://thegenesisblock.com/mt-gox-impact-diminishes-market-price-dissociates/">Mt. Gox's downfall</a>, as well as CEO <a href="http://money.cnn.com/2014/02/24/technology/security/mtgox-bitcoin/">Mark Karpeles' own demise</a>, shows. But tonight, we may have received the final chapter of Mt. Gox's last saga, courtesy of a Bitcoin blogger known as <a href="http://www.coindesk.com/author/ryan-galt/">"The Two-Bit Idiot"</a>. He posted a chillingly titled entry earlier today titled <a href="http://two-bit-idiot.tumblr.com/post/77745633839/bitcoins-apocalyptic-moment-mt-gox-may-have-lost">"Bitcoin’s Apocalyptic Moment: Mt. Gox may have lost 750,000 bitcoins"</a>, referencing a leaked document obtained from "an otherwise reliable source." 750,000 BTC equals about <strong>$375 <em>million</em></strong> at today's exchange rate.</p>
 <p><a id="more"></a><a id="more-424"></a></p>

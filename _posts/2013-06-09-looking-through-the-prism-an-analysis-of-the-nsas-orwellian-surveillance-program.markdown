@@ -13,8 +13,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 285
 wordpress_url: http://mattvukas.com/?p=285
-date: '2013-06-09 22:16:02 -0600'
-date_gmt: '2013-06-10 02:16:02 -0600'
 ---
 <p>As someone who follows technology news pretty closely, a recent leak involving the extent of the NSA's domestic surveillance capabilities was not a big surprise to me. The passage of the <a href="http://en.wikipedia.org/wiki/Patriot_Act">Patriot Act</a>, followed by the <a href="http://en.wikipedia.org/wiki/FISA_Amendments_Act_of_2008">FISA Amendments of 2008</a>, should have been a pretty big wakeup call to any American who takes the constitutional right to privacy, or that pesky Fourth Amendment, seriously. While many argued that it was unconstitutional no matter what, warrantless wiretapping was codified and made easier by these laws, and also by the American people's willingness to give up liberty for security - something which Benjamin Franklin warned against. But I'm not writing this post to lecture you; whether you care or don't care about these privacy intrusions, you probably won't be swayed by me. What I'm going to do is take a look at the newly leaked details about wiretapping at Verizon, Google, Facebook, and other keepers of America's private lives and examine just how extensive the NSA's abilities may be.</p>
 <p><a id="more"></a><a id="more-285"></a></p>

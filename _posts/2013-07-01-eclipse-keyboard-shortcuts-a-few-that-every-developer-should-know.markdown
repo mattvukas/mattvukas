@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 314
 wordpress_url: http://mattvukas.com/?p=314
-date: '2013-07-01 01:02:53 -0600'
-date_gmt: '2013-07-01 05:02:53 -0600'
 ---
 <a href="http://en.wikipedia.org/wiki/Eclipse_(software)">Eclipse</a> is one of the most popular and widely-used <a href="http://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a>s in the world. I think I could safely assume that any software shop that does any Java development has at least one developer working in Eclipse. The amount of functionality that has been baked into this massive software suite over the years is astounding, and with the edition of plugins, the sky is the limit for what you can do with it. While it has its critics, and can churn slowly on even the fastest PCs, this bloated development environment is here to stay in the software industry.
 

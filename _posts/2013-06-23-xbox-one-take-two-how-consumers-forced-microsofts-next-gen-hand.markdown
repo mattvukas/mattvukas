@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 306
 wordpress_url: http://mattvukas.com/?p=306
-date: '2013-06-23 16:44:54 -0600'
-date_gmt: '2013-06-23 20:44:54 -0600'
 ---
 <p>I've been playing video games for almost 17 years now, ever since my uncle bought me the newest high-tech gadget of 1996, the <a href="http://en.wikipedia.org/wiki/Nintendo_64">Nintendo 64</a>, and introduced me to the Japanese-dominated video game world of the 1990's. Things have obviously changed a lot since then, but one constant has been the <a href="http://en.wikipedia.org/wiki/Electronic_Entertainment_Expo">Electronic Entertainment Expo, or E3</a>, which is held on an annual basis in Los Angeles. E3 is the biggest video game trade show in the world, where developers show off their upcoming games, and console makers, such as Microsoft, preview their upcoming hardware. Following E3 is one of the nerdiest rituals I adhere to, and in a year where all of the "Big Three" (Microsoft, Nintendo, and Sony) are fully unveiling their next-gen console lineup, it's almost like Christmas has come early. But while E3 can be a huge boon to the companies which make up the multi-billion dollar gaming industry, things can also go terribly wrong, as demonstrated by Microsoft.</p>
 <p><a id="more"></a><a id="more-306"></a></p>

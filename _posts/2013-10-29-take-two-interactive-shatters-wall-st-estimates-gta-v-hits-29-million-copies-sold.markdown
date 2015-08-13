@@ -13,8 +13,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 336
 wordpress_url: http://mattvukas.com/?p=336
-date: '2013-10-29 18:07:46 -0600'
-date_gmt: '2013-10-29 22:07:46 -0600'
 ---
 <p>Take-Two Interactive (NASDAQ: TTWO) is the publisher behind various big name video game franchises, such as Bioshock, NBA 2K, and others. But their most lucrative series is without a doubt Grand Theft Auto, and their earnings release today clearly demonstrates that.</p>
 <p><a id="more"></a><a id="more-336"></a></p>

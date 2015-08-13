@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 94
 wordpress_url: http://mattvukas.com/?p=94
-date: '2012-12-30 18:10:50 -0700'
-date_gmt: '2012-12-30 23:10:50 -0700'
 ---
 <p>In recent years, interest in the <a href="http://en.wikipedia.org/wiki/Linux">Linux</a> family of operating systems has grown steadily, despite continued heavy investments by Microsoft and Apple in their respective proprietary OS'es. According to <a href="http://www.w3schools.com/browsers/browsers_os.asp">one source</a>, Linux market share has gone from just around 2% in 2003 to about 5% in 2012. That may not seem like much, but compare it to Mac OS X, which went from under 2% to around 9% in the same amount of time, with the backing of Apple's huge advertising budget and hardware support. Not to mention Microsoft's advertising luring people to their side as well.<a id="more"></a><a id="more-94"></a></p>
 <p>So why are people interested in Linux? I won't go into too much detail here, because I assume if you made it here, you're convinced Linux is worth a try. But for starters, it's <a href="http://en.wikipedia.org/wiki/Free_and_open_source_software">free and open source</a>, it's very secure and stable, it comes in hundreds of different distributions, and it's increasingly user-friendly as well.</p>

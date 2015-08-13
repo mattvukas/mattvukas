@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 446
 wordpress_url: http://mattvukas.com/?p=446
-date: '2014-02-27 23:05:29 -0700'
-date_gmt: '2014-02-28 04:05:29 -0700'
 ---
 <p>If Bloomington gets hit by a nuclear strike, <a href="https://oncourse.iu.edu/portal">Oncourse</a> will still be running after the fallout clears. At least, that was the impression I got when I toured the <a href="http://www.dcops.iu.edu/about/dcfacts.html">IU Data Center</a> earlier this week. Located on the <a href="http://uits.iu.edu/">UITS</a> campus at 10th St and the 45/46 bypass, IU's IT infrastructure hub is located in a beige, single-story facility with only a single set of windows on the whole building. The subdued appearance of the building hides the fact that it has 18-inch thick reinforced concrete walls and can withstand a hit from an F5 tornado. And once you go past the card-access front door, there's some very impressive IT and network engineering to be seen inside.</p>
 <p><a id="more"></a><a id="more-446"></a></p>

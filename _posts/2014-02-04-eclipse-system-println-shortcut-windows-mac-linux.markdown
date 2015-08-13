@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 372
 wordpress_url: http://mattvukas.com/?p=372
-date: '2014-02-04 00:52:42 -0700'
-date_gmt: '2014-02-04 05:52:42 -0700'
 ---
 <p>Ever since I wrote a post detailing <a href="http://mattvukas.com/2013/07/01/eclipse-keyboard-shortcuts-a-few-that-every-developer-should-know/">a few important keyboard shortcuts in Eclipse</a> last summer, I've been getting a surprising amount of search engine traffic all looking for one shortcut in particular: <strong>System.out.println()</strong>. Since this is such an important shortcut to know for debugging or writing Java in general, I decided to break it out into its own post.</p>
 <p><a id="more"></a><a id="more-372"></a></p>

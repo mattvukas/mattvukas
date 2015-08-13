@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 356
 wordpress_url: http://mattvukas.com/?p=356
-date: '2014-01-17 00:46:17 -0700'
-date_gmt: '2014-01-17 05:46:17 -0700'
 ---
 **Web Developers HATE him! Code maintainers CAN'T STAND him!**
 

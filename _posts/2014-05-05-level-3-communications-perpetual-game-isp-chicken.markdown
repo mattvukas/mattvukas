@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 476
 wordpress_url: http://mattvukas.com/?p=476
-date: '2014-05-05 20:09:22 -0600'
-date_gmt: '2014-05-06 00:09:22 -0600'
 ---
 <p><a href="http://en.wikipedia.org/wiki/Level_3_Communications">Level 3 Communications</a> recently published an excellent article on their blog titled <a href="http://blog.level3.com/global-connectivity/chicken-game-played-child-isps-internet/">"Chicken"</a>. The article scratches the surface of a well-known problem whereby ISPs abuse their monopoly power controlling the "last-mile" of Internet connectivity, or the connection from a regional fiber backbone to a neighborhood or house.</p>
 <p><a id="more"></a><a id="more-476"></a></p>
