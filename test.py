@@ -10,7 +10,7 @@ with open("OLD-SITEMAP.xml") as f:
     codeColor = 'red'
     if r.status_code == 200:
       codeColor = 'green'
-      if "<link rel=canonical href=\"/\">" in r.content:
+      if "<link rel=canonical href=\"http://www.mattvukas.com/\">" in r.content:
         codeColor = 'blue' # redirecting to root
 
     if url == '':
