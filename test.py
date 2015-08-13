@@ -5,7 +5,7 @@ from termcolor import colored
 with open("OLD-SITEMAP.xml") as f:
   for line in f:
     url = line.rstrip('\r\n')[20:] # strip away http://mattvukas.com part
-    r = requests.get('http://0.0.0.0:4000' + url)
+    r = requests.get('http://www.mattvukas.com' + url)
 
     codeColor = 'red'
     if r.status_code == 200:

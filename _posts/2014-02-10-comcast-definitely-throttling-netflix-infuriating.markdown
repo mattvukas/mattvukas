@@ -12,8 +12,6 @@ author_login: mvukas
 author_email: mattvukas@gmail.com
 wordpress_id: 386
 wordpress_url: http://mattvukas.com/?p=386
-date: '2014-02-10 20:41:42 -0700'
-date_gmt: '2014-02-11 01:41:42 -0700'
 ---
 <h2>First, let's talk about the worst company in America</h2><br />
 Comcast is one of the most hated companies in America, yet inexplicably, also one of the most successful. Two nationwide surveys done by the American Customer Satisfaction Index in 2004 and 2007 showed that <a href="http://en.wikipedia.org/wiki/Criticism_of_Comcast#Low_customer_satisfaction_levels">"Comcast had the worst customer satisfaction rating of any company or government agency in the country, including the Internal Revenue Service."</a> Wow, just let that sink in for a second. People would rather get audited by the IRS than call up Comcast to deal with a faulty cable modem. Also, they are consistently given terrible ratings by every <a href="http://www.consumeraffairs.com/cable_tv/comcast_cable.html">consumer advocate organization</a> across the board.</p>
