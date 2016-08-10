@@ -309,3 +309,15 @@ td {
   padding-left: 5px;
   padding-right: 5px;
 }
+
+img + em {
+  display: block;
+  font-size: 80%;
+}
+
+#featuredReadMore strong {
+  background-color: #eee;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 110%;
+}

@@ -1,5 +1,11 @@
-# MattVukas.com Github Pages repo
+# MattVukas.com GitHub Pages repo
 
-GH repo link: https://github.com/mattvukas/mattvukas.github.io
+GitHub repo: https://github.com/mattvukas/mattvukas.github.io
 
-This repo contains the source code for generating the Jekyll site located at: http://www.mattvukas.com/
+Generated website: http://www.mattvukas.com/
+
+## Blog development
+
+Creating a new post with jekyll-compose: `bundle exec jekyll post "Title of the post"`
+
+Running locally: `jekyll serve`
