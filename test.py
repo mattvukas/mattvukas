@@ -1,4 +1,3 @@
-# Copyright Matt Vukas 2015
 import requests
 from termcolor import colored
 
