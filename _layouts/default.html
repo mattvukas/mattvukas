@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>
+      {% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{
+      site.description }}
+    </title>
 
     {% include meta.html %}
 
@@ -14,8 +17,17 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     -->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ site.baseurl }}/style.css"
+    />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="{{ site.name }} - {{ site.description }}"
+      href="{{ site.baseurl }}/feed.xml"
+    />
     <link rel="shortcut icon" href="/wp-content/uploads/2012/12/mario.ico" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
@@ -25,12 +37,14 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="{{ site.baseurl }}/" class="site-avatar"
+            ><img src="{{ site.avatar }}"
+          /></a>
 
           <div class="site-info">
             <a href="/">
-            <p class="site-name">{{ site.name }}</p>
-            <p class="site-description">{{ site.description }}</p>
+              <p class="site-name">{{ site.name }}</p>
+              <p class="site-description">{{ site.description }}</p>
             </a>
           </div>
 
@@ -50,7 +64,7 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
-          <p id="copyright-notice">Copyright Matt Vukas © 2018</p>
+          <p id="copyright-notice">Copyright Matt Vukas © 2020</p>
         </footer>
       </div>
     </div>

@@ -19,16 +19,16 @@ layout: default
 
   <table class="iteration">
     <tr>
-      <td>
-        {% if page.next.url %}
-          Prev: 
-          <br><a href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}}</a>
+      <td class="readOlder">
+        {% if page.previous.url %}
+          Older:
+          <br><a href="{{page.previous.url}}" title="{{page.previous.title}}">{{page.previous.title}}</a>
         {% endif %}
       </td>
-      <td>
-        {% if page.previous.url %}
-          Next:
-          <br><a href="{{page.previous.url}}" title="{{page.previous.title}}">{{page.previous.title}}</a>
+      <td class="readNewer">
+        {% if page.next.url %}
+          Newer:
+          <br><a href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}}</a>
         {% endif %}
       </td>
     </tr>
