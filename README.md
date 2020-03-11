@@ -24,3 +24,5 @@ Generated website: http://www.mattvukas.com/
 ## Create a new post
 
 `jekyll post "Title of the post"`
+
+.
