@@ -16,9 +16,14 @@
 {% endif %}
 <meta name="author" content="{{ site.name }}" />
 
-{% if page.title %}
-<meta property="og:title" content="{{ page.title }}" />
-{% endif %}
+<meta
+  property="og:title"
+  content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }} – {{ site.description }}{% endif %}"
+/>
+<meta
+  property="og:image"
+  content="{{site.url}}/images/matt-vukas-pow-day.jpg"
+/>
 
 <!-- Twitter meta tags -->
 <meta name="twitter:card" content="summary" />
@@ -27,12 +32,13 @@
   name="twitter:title"
   content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }} – {{ site.description }}{% endif %}"
 />
-{% if page.title %} {% else %}
-<!-- home page only tags: -->
+<!-- going to just use this image until I figure out page-specific images  -->
 <meta
   name="twitter:image"
   content="{{site.url}}/images/matt-vukas-pow-day.jpg"
 />
+{% if page.title %} {% else %}
+<!-- home page only tags: -->
 <meta
   name="twitter:description"
   content="Personal website and blog for Matt Vukas."
