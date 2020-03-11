@@ -3,6 +3,7 @@ layout: page
 title: About Me
 redirect_from:
   - /contact/
+excerpt: A little bit about myself.
 ---
 
 My name is Matt Vukas, welcome to my personal website and blog! This is a living portfolio, stream of consciousness, and repository of articles authored by yours truly. I'm a technologist; my current role is a software engineer at [Flowhub](https://flowhub.co/), and I have worked in software engineering at several [SaaS companies](https://stripe.com/atlas/guides/business-of-saas) and other organizations before that.
