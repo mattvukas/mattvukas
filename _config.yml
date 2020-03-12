@@ -76,6 +76,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - NOTES.md
   - CNAME
   - test.py
   - OLD-SITEMAP.xml
