@@ -31,7 +31,7 @@ For me personally, what worked was spending most of my prep time on [Leetcode](h
 - Binary trees
 - Hashmaps & caching
 - Linked lists
-- Memoization
+- Dynamic Programming & Memoization
 - Graphs (DFS & BFS)
 
 And if you have time, you might review lesser asked categories as well such as: Tries, Heaps, Bitwise math, etc. Remember, you can prepare, but it's impossible to be 100% prepared for what you might encounter given the wide breadth of topics.
