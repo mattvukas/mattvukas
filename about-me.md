@@ -12,7 +12,7 @@ I live in [Denver, Colorado](https://en.wikipedia.org/wiki/Denver). I grew up in
 
 I've been fascinated with computers ever since I unboxed my family's first PC, a bulky, beige Dell, and dialed in at a blazing fast 56kbps ([oh, nostalgia](https://www.youtube.com/watch?v=D1UY7eDRXrs)) to AOL. That was around 1997, and we've come a very long way since then.
 
-In my free time, I try to hike & ski as much as possible and generally enjoy the beauty of Colorado. But I also like learning new technologies and working on [side projects](/projects). These days I mainly blog about software: new technologies, challenges I run into on projects, cryptocurrencies, and tech industry news.
+In my free time, I try to hike & ski as much as possible and generally enjoy the beauty of Colorado. But I also like learning new technologies and working on [side projects](/projects). These days I mainly blog about software: new technologies, challenges I run into on projects, cryptocurrencies, and tech industry news. All opinions are my own. 😊
 
 ![](/images/matt-vukas-pow-day.jpg)
 _Hanging out on the slopes, February 2020._
