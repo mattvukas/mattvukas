@@ -1,6 +1,6 @@
 # MattVukas.com GitHub Pages repo
 
-Repository containing static site personal blog for one Matt Vukas.
+Repository containing static site personal blog.
 
 GitHub repo: https://github.com/mattvukas/mattvukas.github.io
 
